@@ -14,7 +14,7 @@
     <br>
 </h2>
 
-<h2>:busts_in_silhouette: How to reach me</h2>
+## Contact
 <a href="https://github.com/Aarifmedharsha">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Aarifmedharsha">
 </a>
@@ -28,7 +28,7 @@
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=03aarif20@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 
-<h2>:thought_balloon: Quote of the day</h2>
+##Quote of the Day
 <details open>
 <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
