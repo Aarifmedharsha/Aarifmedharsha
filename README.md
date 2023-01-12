@@ -24,7 +24,6 @@
 <a href="https://www.linkedin.com/in/aarif-medharsha-4ba806221/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/Aarif-Medharsha&color=0A66C2&style=flat&logo=linkedin" />
 </a>
-</a>
 <a href="mailto:03aarif20@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=03aarif20@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
