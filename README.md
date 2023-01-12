@@ -21,16 +21,25 @@
 
 ## Contact
 <a href="https://github.com/Aarifmedharsha">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Aarifmedharsha?style=social&label=@Aarifmedharsha">
-</a>
-<a href="https://twitter.com/AMedharsha/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <img alt="Link to my GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/aarif-medharsha-4ba806221/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.kaggle.com/aarifmedharsha">
+    <img alt="Link to my Kagge" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+</a>
+<a href="https://twitter.com/AMedharsha/">
+    <img alt="Link to my Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
 <a href="mailto:03aarif20@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/aarifxo_/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://wa.me/9384109134">
+    <img alt="link to my WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ## Quote of the Day
