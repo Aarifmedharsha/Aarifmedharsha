@@ -1,4 +1,4 @@
-## Hi, This is Aarif Medharsha!!
+## Greetings everyone 👋 Aarif Medharsha here!!
 
 <h2>
     <br>
@@ -12,7 +12,7 @@
     <br>
     -📍  Studying In : KPR Institute OF Engneering And Technology,Coimbatore
     <br>
-- ⚡ Fun fact: I'm Human
+- ⚡ Fun fact: I love to binge Anime,Movie,Web Series
     <br>
 </h2>
 
