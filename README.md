@@ -40,7 +40,7 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
-## Streaks
-![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)]
+## Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aarifmedharsha&theme=github-dark-blue)](https://git.io/streak-stats)
 ## Contribution
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
