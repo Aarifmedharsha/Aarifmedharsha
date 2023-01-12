@@ -43,7 +43,3 @@
 
 ## Streak
 <img src="https://streak-stats.demolab.com?user=Aarifmedharsha&theme=github-dark-blue" > </img>
-
-
-## Contribution
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
