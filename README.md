@@ -11,7 +11,7 @@
     <br>
     - 📫 Studying in : KPR Institute of Engneering and Technology,Coimbatore
     <br>
-- ⚡ Fun fact: I love to binge Anime,Movie,Web Series
+- ⚡ Fun fact: I love to binge Anime,Movies,Web Series
 </h2>
 
 ## Badges Earned
