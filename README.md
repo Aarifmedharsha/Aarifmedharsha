@@ -10,7 +10,7 @@
     <br>
     - 📫 Google Me: <a href="https://www.google.com/search?q=Aarif+Medharsha"> Click Here </a>
     <br>
-- ⚡ Fun fact: 19 Years Old
+- ⚡ Fun fact: I'm Human
     <br>
 </h2>
 
