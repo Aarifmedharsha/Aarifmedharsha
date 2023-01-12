@@ -17,7 +17,7 @@
 </h2>
 
 ## Badges Earned
-[![@coolmanvk's Holopin board](https://holopin.me/aarifmedharsha)](https://holopin.io/@aarifmedharsha)
+[![@aarifmedharsha's Holopin board](https://holopin.me/aarifmedharsha)](https://holopin.io/@aarifmedharsha)
 
 ## Contact
 <a href="https://github.com/Aarifmedharsha">
@@ -42,7 +42,6 @@
 </details>
 
 ## Streak
-
 <img src="https://streak-stats.demolab.com?user=Aarifmedharsha&theme=github-dark-blue" > </img>
 
 
