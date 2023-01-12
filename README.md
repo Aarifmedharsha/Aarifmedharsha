@@ -50,5 +50,5 @@
     </a>
 </details>
 
-## Streak
+## For Github
 <img src="https://streak-stats.demolab.com?user=Aarifmedharsha&theme=github-dark-blue" > </img>
