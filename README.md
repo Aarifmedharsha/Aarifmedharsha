@@ -41,7 +41,7 @@
     </a>
 </details>
 ## Streak
-![[GitHub Streak](https://streak-stats.demolab.com?user=Aarifmedharsha&theme=github-dark-blue)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Aarifmedharsha&theme=github-dark-blue" > </img>
 
 
 ## Contribution
