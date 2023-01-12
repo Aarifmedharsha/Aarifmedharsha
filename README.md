@@ -34,8 +34,7 @@
               <a href="
 https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
               
-        </div>
-    </td>
+     
   </tr>
 </table>
 
