@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, This is Aarif Medharsha!!
 
 <h2>
     <br>
@@ -35,3 +35,5 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
+
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
