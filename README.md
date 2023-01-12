@@ -70,4 +70,6 @@ https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-00000F?styl
 ## Stats
 <img src="https://streak-stats.demolab.com?user=Aarifmedharsha&theme=github-dark-blue" > </img>
  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aarifmedharsha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark"> <img/> 
- <img src"https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?user=Aarifmedharshaa&theme=github-dark-blue" > <img/>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aarifmedharsha&theme=dark">
+<img src="https://activity-graph.herokuapp.com/graph?username=Aarifmedharsha&bg_color=000000&color=ffffff&line=80ffff&point=ffffff&area=true&hide_border=true" />
