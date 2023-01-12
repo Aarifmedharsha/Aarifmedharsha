@@ -41,6 +41,8 @@
     </a>
 </details>
 ## Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aarifmedharsha&theme=github-dark-blue)](https://git.io/streak-stats)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aarifmedharsha&theme=github-dark-blue)](https://git.io/streak-stats)
+
+
 ## Contribution
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
