@@ -28,7 +28,7 @@
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=03aarif20@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 
-##Quote of the Day
+## Quote of the Day
 <details open>
 <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
@@ -37,4 +37,4 @@
 </details>
 
 ## Contribution Animation
-![Snake animation](https://github.com/Aarifmedharsha/Aarifmedharsha/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
