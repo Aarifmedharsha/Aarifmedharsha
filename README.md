@@ -14,6 +14,7 @@
     <br>
 </h2>
 
+## Badges Earned
 [![@coolmanvk's Holopin board](https://holopin.me/aarifmedharsha)](https://holopin.io/@aarifmedharsha)
 
 ## Contact
