@@ -9,7 +9,7 @@
     <br>
     - 🕸️ Google me: <a href="https://www.google.com/search?q=Aarif+Medharsha"> Click Here </a>
     <br>
-    - 📫 Current Status : Prefinal year student @ KPR Institute of Engneering and Technology,Coimbatore
+    - 📫 Current Status: Prefinal year student at KPR Institute of Engneering and Technology,Coimbatore
     <br>
 - ⚡ Fun fact: I love to binge Anime,Movies,Web Series
 </h2>
