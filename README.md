@@ -18,8 +18,8 @@
 <a href="https://github.com/Aarifmedharsha">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Aarifmedharsha">
 </a>
-<a href="https://twitter.com/aarifmedharsha/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@aarifmedharsha">
+<a href="https://twitter.com/AMedharsha/">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@AMedharsha">
 </a>
 <a href="https://www.linkedin.com/in/aarif-medharsha-4ba806221/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/Aarif-Medharsha&color=0A66C2&style=flat&logo=linkedin" />
