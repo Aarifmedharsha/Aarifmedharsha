@@ -1,7 +1,6 @@
 ## Greetings everyone 👋 Aarif Medharsha here!!
 
 <h2>
-    <br>
 - 🔭 I’m currently working on Machine Learning and Problem Solving
     <br>
 - 🌱 I’m currently learning Artificial Intellingence and Data Science
@@ -13,7 +12,6 @@
     - 📫 Studying in : KPR Institute of Engneering and Technology,Coimbatore
     <br>
 - ⚡ Fun fact: I love to binge Anime,Movie,Web Series
-    <br>
 </h2>
 
 ## Badges Earned
