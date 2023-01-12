@@ -17,8 +17,6 @@ h3>:headphones: Albums I've listened to the most this week</h3>
 <!-- lastfm -->
 <p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5b476d367e684543c50c687bca4fb5d4.png" title="Rhapsody - Rain of a Thousand Flames"> </p>
 
-<p>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</p>
-
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
 <summary>See quote</summary>
@@ -55,5 +53,3 @@ h3>:headphones: Albums I've listened to the most this week</h3>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
-    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-</details>
