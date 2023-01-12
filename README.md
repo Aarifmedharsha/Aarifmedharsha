@@ -10,6 +10,8 @@
     <br>
     - 📫 Google Me: <a href="https://www.google.com/search?q=Aarif+Medharsha"> Click Here </a>
     <br>
+    -📍 Studying In : KPR Institute OF Engneering And Technology,Coimbatore.
+    <br>
 - ⚡ Fun fact: I'm Human
     <br>
 </h2>
