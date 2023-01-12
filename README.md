@@ -8,9 +8,9 @@
     <br>
 - 💬 Ask me about : Data Structures and AI,ML,DL&NLP
     <br>
-    - 📫 Google Me: <a href="https://www.google.com/search?q=Aarif+Medharsha"> Click Here </a>
+    - 🕸️ Google me: <a href="https://www.google.com/search?q=Aarif+Medharsha"> Click Here </a>
     <br>
-    -📍  Studying In : KPR Institute OF Engneering And Technology,Coimbatore
+    - 📫 Studying in : KPR Institute of Engneering and Technology,Coimbatore
     <br>
 - ⚡ Fun fact: I love to binge Anime,Movie,Web Series
     <br>
