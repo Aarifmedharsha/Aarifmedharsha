@@ -15,8 +15,8 @@
 </h2>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://github.com/Carol42">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Carol42">
+<a href="https://github.com/Aarifmedharsha">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Aarifmedharsha">
 </a>
 <a href="https://codepen.io/Carol42">
     <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=flat&logo=codepen"  />
