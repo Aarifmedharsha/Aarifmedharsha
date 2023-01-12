@@ -21,16 +21,16 @@
 
 ## Contact
 <a href="https://github.com/Aarifmedharsha">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Aarifmedharsha">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Aarifmedharsha?style=social&label=@Aarifmedharsha">
 </a>
 <a href="https://twitter.com/AMedharsha/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@AMedharsha">
+    <img alt="Link to my Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/aarif-medharsha-4ba806221/">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/Aarif-Medharsha&color=0A66C2&style=flat&logo=linkedin" />
+    <img alt="link to my LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:03aarif20@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=03aarif20@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+    <img alt="link to send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ## Quote of the Day
