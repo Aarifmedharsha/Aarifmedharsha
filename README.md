@@ -5,29 +5,29 @@
     <img align="center" alt="Link to my GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a  href="https://www.linkedin.com/in/aarif-medharsha-4ba806221/">
-    <div style="position:center;">
+    
     <img align="center" alt="link to my LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </div>
+    
 </a>
 <a  href="https://www.kaggle.com/aarifmedharsha">
-    <div style="position:absolute;">
+    
     <img align="center" alt="Link to my Kagge" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-        </div>
+        
 </a>
 <a href="https://twitter.com/AMedharsha/">
-    <div style="position:absolute;">
+    
     <img align="center" alt="Link to my Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-        </div>
+        
 </a>
 <a  href="mailto:03aarif20@gmail.com">
-    <div style="position:absolute;">
+    
     <img align="center" alt="link to send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </div>
+        
 </a>
 <a  href="https://www.instagram.com/aarifxo_/">
-    <div style="position:absolute;">
+    
     <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-        </div>
+        
 </a>
 <h2>
 - 🔭 I’m currently working on Machine Learning and Problem Solving
