@@ -1,5 +1,5 @@
-<h5 align="center"> Greetings everyone 👋, I am</h5>
-<h2 align="center"> Aarif Medharsha </h2>
+<h4 align="center"> Greetings everyone 👋, I am</h4>
+<h2 align="center"> Aarif Medharsha 🤩</h2>
 <h2>
 - 🔭 I’m currently working on Machine Learning and Problem Solving
     <br>
