@@ -1,6 +1,6 @@
 <h4 align="center"> Greetings everyone 👋, I am</h4>
 <h2 align="center"> Aarif Medharsha 🤩</h2>
-<h4 >Find me at</h4>
+<h2 >Find me at</h2>
 <a  href="https://github.com/Aarifmedharsha">
     <img align="center" alt="Link to my GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -19,6 +19,7 @@
 <a  href="https://www.instagram.com/aarifxo_/">
     <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<h2>About me</h2>
 <h2>
 - 🔭 I’m currently working on Machine Learning and Problem Solving
     <br>
