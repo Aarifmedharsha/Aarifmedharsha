@@ -55,9 +55,6 @@ https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-00000F?styl
 <a href="https://www.instagram.com/aarifxo_/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://wa.me/9384109134">
-    <img alt="link to my WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
 
 ## Quote of the Day
 <details open>
