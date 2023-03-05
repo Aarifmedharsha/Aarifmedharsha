@@ -64,10 +64,10 @@
     </a>
 </details>
 
-            <h2 align="center">My Works are open at Kaggle</h2>
-- 📬 NoteBooks for your Reference : [here](https://www.kaggle.com/aarifmedharsha)
+ <h2 align="center">My Works are open at Kaggle</h2>
+<p align="center"> - 📬 NoteBooks for your Reference : [here](https://www.kaggle.com/aarifmedharsha)</p>
 
-            <h2 align="center">My GitHub Stats</h2>
+ <h2 align="center">My GitHub Stats</h2>
 <p align="center">
 <img align="center" src="https://streak-stats.demolab.com?user=Aarifmedharsha&theme=github-dark-blue" alt="Aarif's GitHub stats" height="192px" width="400px" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarifmedharsha&layout=compact)](https://github.com/Aarifmedharsha/github-readme-stats" height="192px" width="400px" />
