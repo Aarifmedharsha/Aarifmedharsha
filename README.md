@@ -65,9 +65,14 @@ https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-00000F?styl
 </details>
 
 ## Stats
-<img src="https://streak-stats.demolab.com?user=Aarifmedharsha&theme=github-dark-blue" > </img>
-          <br>
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aarifmedharsha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github-dark-blue"> <img/> 
+            <p align="center">
+<img align="center" src="https://streak-stats.demolab.com?user=Aarifmedharsha&theme=github-dark-blue" alt="Aarif's GitHub stats" height="192px" width="400px" />
+ <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aarifmedharsha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github-dark-blue" alt="Aarif's GitHub stats" height="192px" width="400px" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarifmedharsha&layout=compact)](https://github.com/Aarifmedharsha/github-readme-stats" height="192px" width="400px" />
+
+<b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+</p>
+
  
  🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 <br>
