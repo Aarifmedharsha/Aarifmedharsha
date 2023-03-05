@@ -19,7 +19,7 @@
 </a>
 </div>
 <h2 align="center">About me</h2>
-<h2 align="center">
+<h3 align="center">
 - 🔭 I’m currently working on Machine Learning and Problem Solving
     <br>
 - 🌱 I’m currently learning Artificial Intellingence and Data Science
@@ -31,7 +31,7 @@
     - 📫 Current Status: Prefinal year student at KPR Institute of Engneering and Technology,Coimbatore
     <br>
 - ⚡ Fun fact: I love to binge Anime,Movies,Web Series
-</h2>
+</h3>
 
 <h2 align="center">Badges Earned</h2>
 
