@@ -55,12 +55,15 @@
 
 
 ## Quote of the Day
-<details open>
+<details open align="center">
 <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
+
+### My Works are open at Kaggle
+- 📬 NoteBooks for your Reference : [here](https://www.kaggle.com/aarifmedharsha)
 
 ## My GitHub Stats
 <p align="center">
@@ -70,7 +73,7 @@
 
 <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </p>
-
+### Show some ❤️ by starring some of the repositories!
  
  🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 <br>
