@@ -19,7 +19,7 @@
 </a>
 </div>
 <h2 align="center">About me</h2>
-<h2>
+<h2 align="center">
 - 🔭 I’m currently working on Machine Learning and Problem Solving
     <br>
 - 🌱 I’m currently learning Artificial Intellingence and Data Science
