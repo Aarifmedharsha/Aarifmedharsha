@@ -73,7 +73,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarifmedharsha&layout=compact)](https://github.com/Aarifmedharsha/github-readme-stats" height="192px" width="400px" />
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aarifmedharsha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github-dark-blue" alt="Aarif's GitHub stats" height="192px" width="400px" />
 
-<b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+<h3 align="center" >Note:</h3> <h4 align="center">Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h4>
 </p>
 
 ### Show some ❤️ by starring some of the repositories!
