@@ -1,6 +1,6 @@
 <h4 align="center"> Greetings everyone 👋, I am</h4>
 <h2 align="center"> Aarif Medharsha 🤩</h2>
-<h2 >Find me at</h2>
+<h2 align="center">Find me at</h2>
 <div align="center">
 <a  href="https://github.com/Aarifmedharsha">
     <img align="center" alt="Link to my GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -18,7 +18,7 @@
     <img align="center" alt="link to send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
-<h2>About me</h2>
+<h2 align="center">About me</h2>
 <h2>
 - 🔭 I’m currently working on Machine Learning and Problem Solving
     <br>
@@ -33,10 +33,11 @@
 - ⚡ Fun fact: I love to binge Anime,Movies,Web Series
 </h2>
 
-## Badges Earned
+<h2 align="center">Badges Earned</h2>
+
 [![@aarifmedharsha's Holopin board](https://holopin.me/aarifmedharsha)](https://holopin.io/@aarifmedharsha)
 
-## Working On
+<h2 align="center">Working On</h2>
 <table align="center">
     <tr>
       <td>
@@ -55,7 +56,7 @@
 
 
 
-## Quote of the Day
+<h2 align="center">Quote of the Day</h2>
 <details open align="center">
 <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
@@ -63,10 +64,10 @@
     </a>
 </details>
 
-### My Works are open at Kaggle
+            <h2 align="center">My Works are open at Kaggle</h2>
 - 📬 NoteBooks for your Reference : [here](https://www.kaggle.com/aarifmedharsha)
 
-## My GitHub Stats
+            <h2 align="center">My GitHub Stats</h2>
 <p align="center">
 <img align="center" src="https://streak-stats.demolab.com?user=Aarifmedharsha&theme=github-dark-blue" alt="Aarif's GitHub stats" height="192px" width="400px" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarifmedharsha&layout=compact)](https://github.com/Aarifmedharsha/github-readme-stats" height="192px" width="400px" />
