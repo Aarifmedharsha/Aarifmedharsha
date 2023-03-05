@@ -1,7 +1,7 @@
 <h4 align="center"> Greetings everyone 👋, I am</h4>
 <h2 align="center"> Aarif Medharsha 🤩</h2>
 <h2 >Find me at</h2>
-<div align="center>
+<div align="center">
 <a  href="https://github.com/Aarifmedharsha">
     <img align="center" alt="Link to my GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
