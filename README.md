@@ -16,9 +16,7 @@
 <a  href="mailto:03aarif20@gmail.com">
     <img align="center" alt="link to send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a  href="https://www.instagram.com/aarifxo_/">
-    <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+
 <h2>About me</h2>
 <h2>
 - 🔭 I’m currently working on Machine Learning and Problem Solving
