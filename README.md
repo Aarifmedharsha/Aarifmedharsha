@@ -33,9 +33,6 @@
 - ⚡ Fun fact: I love to binge Anime,Movies,Web Series
 </h3>
 
-<h2 align="center">Badges Earned</h2>
-
-[![@aarifmedharsha's Holopin board](https://holopin.me/aarifmedharsha)](https://holopin.io/@aarifmedharsha)
 
 <h2 align="center">Working On</h2>
 <table align="center">
