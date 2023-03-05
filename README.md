@@ -1,6 +1,7 @@
 <h4 align="center"> Greetings everyone 👋, I am</h4>
 <h2 align="center"> Aarif Medharsha 🤩</h2>
 <h2 >Find me at</h2>
+<div align="center>
 <a  href="https://github.com/Aarifmedharsha">
     <img align="center" alt="Link to my GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -16,7 +17,7 @@
 <a  href="mailto:03aarif20@gmail.com">
     <img align="center" alt="link to send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+</div>
 <h2>About me</h2>
 <h2>
 - 🔭 I’m currently working on Machine Learning and Problem Solving
@@ -73,6 +74,7 @@
 
 <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </p>
+
 ### Show some ❤️ by starring some of the repositories!
  
  🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
