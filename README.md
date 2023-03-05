@@ -36,20 +36,21 @@
 [![@aarifmedharsha's Holopin board](https://holopin.me/aarifmedharsha)](https://holopin.io/@aarifmedharsha)
 
 ## Working On
-<table>
+<table align="center">
     <tr>
       <td>
         <div>
           <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/></a>
           <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
           <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/></a>
+            
           <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
           <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a>
           <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" /><a>
           <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"></a>
               <a href="
 https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-              
+              <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"></a>
      
   </tr>
 </table>
@@ -64,11 +65,11 @@ https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-00000F?styl
     </a>
 </details>
 
-## Stats
+## My GitHub Stats
 <p align="center">
 <img align="center" src="https://streak-stats.demolab.com?user=Aarifmedharsha&theme=github-dark-blue" alt="Aarif's GitHub stats" height="192px" width="400px" />
- <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aarifmedharsha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github-dark-blue" alt="Aarif's GitHub stats" height="192px" width="400px" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarifmedharsha&layout=compact)](https://github.com/Aarifmedharsha/github-readme-stats" height="192px" width="400px" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aarifmedharsha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github-dark-blue" alt="Aarif's GitHub stats" height="192px" width="400px" />
 
 <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </p>
