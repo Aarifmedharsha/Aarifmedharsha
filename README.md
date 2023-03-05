@@ -62,7 +62,7 @@
 </details>
 
  <h2 align="center">My Works are open at Kaggle</h2>
-<p align="center"> - 📬 NoteBooks for your Reference : <a href="https://www.kaggle.com/aarifmedharsha">here</a></p>
+<p align="center"> - 📬 NoteBooks for your Reference : <a href="https://www.kaggle.com/aarifmedharsha/code">here</a></p>
 
  <h2 align="center">My GitHub Stats</h2>
 <p align="center">
