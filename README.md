@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Aarfimedharsha&color=green)
 <h4 align="center"> Greetings everyone 👋, I am</h4>
 <h2 align="center"> Aarif Medharsha 🤩</h2>
 <h2 align="center">Find me at</h2>
