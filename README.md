@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Aarfimedharsha&color=orange&style=plastic&label=Profile+Visits:)
 <h4 align="center"> Greetings everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px" height="15px">, I am</h4>
-<h2 align="center"> Aarif Medharsha <img src="https://tenor.com/view/luntry-luntryifunny-luntryy-gif-26563187" width="15px" height="15px"></h2>
+<h2 align="center"> Aarif Medharsha <img src="https://github.com/Aarifmedharsha/Aarifmedharsha/blob/main/luntry-luntryifunny.gif" width="15px" height="15px"></h2>
 <h2 align="center">Find me at</h2>
 <div align="center">
 <a  href="https://github.com/Aarifmedharsha">
