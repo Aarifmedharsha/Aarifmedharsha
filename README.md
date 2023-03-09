@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Aarfimedharsha&color=orange&style=plastic&label=Profile+Visits:)
-<h4 align="center"> Greetings everyone 👋, I am</h4>
+<h4 align="center"> Greetings everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px" height="30px">, I am</h4>
 <h2 align="center"> Aarif Medharsha 🤩</h2>
 <h2 align="center">Find me at</h2>
 <div align="center">
