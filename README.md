@@ -10,8 +10,12 @@
     <img align="center" alt="link to my LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a  href="https://www.kaggle.com/aarifmedharsha">
-    <img align="center" alt="Link to my Kagge" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+    <img align="center" alt="Link to my Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 </a>
+<a  href="https://www.hackerrank.com/Aarif_M">
+    <img align="center" alt="Link to my HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+</a>
+
 <a href="https://twitter.com/AMedharsha/">
     <img align="center" alt="Link to my Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
