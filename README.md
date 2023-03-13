@@ -88,3 +88,4 @@
 <a href="https://github.com/Aarifmedharsha/Aarifmedharsha/raw/main/Aarif's%20Resume.pdf" alt="Aarif's Resume">Download My Resume Here!</a>
 </p>
 
+[![Generic badge](https://img.shields.io/badge/<RESUME>-<DOWNLOAD>-<COLOR>.svg)](https://github.com/Aarifmedharsha/Aarifmedharsha/raw/main/Aarif's%20Resume.pdf)
