@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Aarfimedharsha&color=orange&style=plastic&label=Profile+Visits:)
+
 [![](https://img.shields.io/badge/%20My_Resume_:-Download_here.-grey?labelColor=blue)](https://github.com/Aarifmedharsha/Aarifmedharsha/raw/main/Aarif's%20Resume.pdf)
 <h4 align="center"> Greetings everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px" height="15px">, I am</h4>
 <h2 align="center"> Aarif Medharsha 😎 </h2>
