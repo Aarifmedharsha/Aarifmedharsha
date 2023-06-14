@@ -74,7 +74,6 @@
  <h2 align="center">My GitHub Stats</h2>
 <p align="center">
 <img align="center" src="https://streak-stats.demolab.com?user=Aarifmedharsha&theme=github-dark-blue" alt="Aarif's GitHub stats" height="192px" width="400px" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarifmedharsha&layout=compact)](https://github.com/Aarifmedharsha/github-readme-stats" height="192px" width="400px" />
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aarifmedharsha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github-dark-blue" alt="Aarif's GitHub stats" height="192px" width="400px" />
 
 <h4 align="center">Note :Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h4>
