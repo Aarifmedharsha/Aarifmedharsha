@@ -2,7 +2,9 @@
 
 [![](https://img.shields.io/badge/%20My_Resume_:-Download_here.-grey?labelColor=blue)](https://drive.google.com/file/d/1vff9dpvKGnfCFF08cIfaBcf7BxKRdvEU/view?usp=sharing)
 <h4 align="center"> Greetings everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px" height="15px">, I am</h4>
-<h2 align="center"> Aarif Medharsha 😎 </h2>
+<a href = "https://linktr.ee/Aarif.Medharsha" >
+    <h2 align="center"> Aarif Medharsha 😎 </h2>
+</a>
 <h2 align="center">Find me at</h2>
 <div align="center">
 <a  href="https://github.com/Aarifmedharsha">
