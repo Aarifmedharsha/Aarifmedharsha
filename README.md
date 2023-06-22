@@ -27,7 +27,7 @@
     <img align="center" alt="link to send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
-<h2 align="center">About me</h2>
+<h2>About me</h2>
 <h3>
 - 🔭 I’m currently working on Machine Learning and Problem Solving
     <br>
