@@ -39,7 +39,7 @@
     <br>
     - 📫 Current Status: Prefinal year student at KPR Institute of Engneering and Technology,Coimbatore
     <br>
-- ⚡ Fun fact: I love to binge Anime,Movies,Web Series
+- ⚡ Fun fact: I love to binge watch Anime,Movies,Web Series
 </h3>
 
 
